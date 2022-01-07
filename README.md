@@ -1,5 +1,5 @@
 # esx_chat
-fix fivem chat 
+>FIX FIVEM ESX_CHAT 
 
 !FIX !FIX !FIX No Bug 100%
 --------------------------------------------------------------------------------
@@ -12,7 +12,7 @@ fix fivem chat
 
 DOWNLOAD THE FILES
 
-**EXTRACT AND DRAG TO YOUR RESOURCE FOLDER
+**EXTRACT AND DRAG TO YOUR RESOURCE FOLDER**
 
 **IN SERVER CFG:**
 _start chat_
